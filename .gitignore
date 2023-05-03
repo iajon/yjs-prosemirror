@@ -1,0 +1,2 @@
+# Ignore Webpack build files
+/dist/
