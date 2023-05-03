@@ -8,5 +8,5 @@ npx webpack --config=webpack.config.js
 
 ## Usage
 ```bash
-opne prosemirror.html
+open prosemirror.html
 ```
